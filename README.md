@@ -1,5 +1,6 @@
-# r3f-vite-starter
-A boilerplate to build R3F projects
+# Room scene
+
+A scene of my room made on blender by me and displayed with R3F
 
 ```
 yarn
